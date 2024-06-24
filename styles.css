@@ -1,0 +1,117 @@
+
+.title {
+    font-weight: bold;
+    font-size: 48px;
+    background-color: black;
+    color: white;
+    /* padding-bottom: 1%;
+    margin: 0; */
+}
+
+.i {
+    background-color: black;
+}
+
+.img {
+    background-color: black;
+    height: 3cm;
+    width: 7cm;
+    padding: 1%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: aquamarine;
+}
+
+li {
+    display: inline-block;
+    padding: 15px;
+    font-size: 20px;
+}
+
+li:hover {
+    background-color: black;
+    color: white;
+}
+
+.item {
+    display: none;
+}
+
+li:hover .item {
+    display: block;
+    position: absolute;
+    margin-left: -15px;
+    margin-top: 15px;
+}
+
+.item ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: aquamarine;
+}
+
+.item li {
+    display: block;
+    padding: 10px;
+    color: red;
+}
+
+.item li:hover {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.i1, .i2, .i3, .i4 {
+    margin: 1%;
+    padding: 1%;
+    width: 1cm;
+    height: 1cm;
+}
+
+.i3 {
+    width: 1cm;
+    height: .75cm;
+}
+
+.i4 {
+    width: .65cm;
+    height: 1cm;
+}
+
+.t1 {
+    padding: 0px 50px;
+    padding-bottom: 10px;
+}
+
+.im {
+    height: 75%;
+    width: 50%;
+}
+
+h1 {
+    color: brown;
+}
+
+.sec {
+    padding: 15px;
+    border: 5px solid gray;
+    background-color: white;
+}
+
+.card a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.card a:hover {
+    color: white;
+}
