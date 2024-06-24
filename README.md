@@ -1,1 +1,2 @@
-# Landing-page
+# Landing-page 
+This project is a website for Nilesh Art, showcasing a variety of high-quality products such as wedding cards, invitation cards, visiting cards, bill books, banners, and more. The landing page is designed with a user-friendly layout, featuring a prominent logo, a navigation menu with drop-down items for different products, and detailed sections with images for each product category. Additionally, the site includes an 'About Us' section describing the services offered and a 'Contact Us' section providing contact details and icons for easy communication. The design incorporates CSS styling to enhance the visual appeal and interactivity of the webpage.
